@@ -19,4 +19,4 @@ passport.use(
 )
 
 const PORT = process.env.PORT || 5001
-app.listen(POST)
+app.listen(PORT)
