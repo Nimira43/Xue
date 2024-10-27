@@ -8,7 +8,8 @@
     "npm": "10.8.1"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "Nick Rabone",
   "license": "ISC",
