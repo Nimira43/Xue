@@ -1,3 +1,17 @@
+const Menu = () => {
+  return (
+    <div>
+      Menu
+    </div>
+  )
+}
+
+export default Menu
+
+
+
+
+
 // const menuItems = [
 //   {
 //     title: 'Menu',
