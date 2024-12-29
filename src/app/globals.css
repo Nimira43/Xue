@@ -3,3 +3,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+:root {
+  --blue-extra-light: #c1e2ef;
+  --blue-light: #87ceeb;
+  --blue-medium: #3db2e0;
+  --blue-dark: #0f94c8;
+  --blue-extra-dark: #016992;
+  
+}
