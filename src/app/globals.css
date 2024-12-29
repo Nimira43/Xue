@@ -13,5 +13,9 @@
   --blue-medium-dark: #3db2e0;
   --blue-dark: #0f94c8;
   --blue-extra-dark: #016992;
-  
+}
+
+.logo {
+  font-family: 'Caveat', cursive;
+  font-size: 2rem;
 }
