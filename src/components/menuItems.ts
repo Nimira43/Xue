@@ -23,7 +23,7 @@ export const menuItems = [
         ],
       },
       { 
-        icon: '/students.png',
+        icon: '/student.png',
         label: 'Students',
         href: '/list/students',
         visibile: [
@@ -100,7 +100,7 @@ export const menuItems = [
         ],
       },
       { 
-        icon: '/attendamce.png',
+        icon: '/attendance.png',
         label: 'Attendance',
         href: '/list/attendance',
         visibile: [
