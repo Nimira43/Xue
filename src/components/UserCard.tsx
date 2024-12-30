@@ -1,7 +1,7 @@
 const UserCard = ({type}:{type:string}) => {
   return (
-    <div>
-      User Card
+    <div className='rounded-2xl odd:'>
+      
     </div>
   )
 }
