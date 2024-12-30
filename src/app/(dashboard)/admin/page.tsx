@@ -6,11 +6,11 @@ const AdminPage = () => {
       <div className='w-full lg:w-2/3'>
         Left
       </div>
-      <div className=''>
-        <UserCard />
-        <UserCard />
-        <UserCard />
-        <UserCard />
+      <div className='flex gap-4 justify-center'>
+        <UserCard type='student'/>
+        <UserCard type='teacher'/>
+        <UserCard type='parent'/>
+        <UserCard type='staff'/>
       </div>
       <div className='w-full lg:w-1/3'>
         Right
