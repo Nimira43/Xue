@@ -14,7 +14,7 @@ export default Menu
 
 const menuItems = [
   {
-    title: 'Menu',
+    title: 'MENU',
     items: [
       { 
         icon: '/home.png',
@@ -28,146 +28,133 @@ const menuItems = [
         ],
       },
       { 
-        icon: '/home.png',
-        label: 'Home',
-        href: '/',
+        icon: '/teacher.png',
+        label: 'Teachers',
+        href: '/list/teachers',
         visibile: [
           'admin',
           'teacher',
-          'student',
-          'parent',
         ],
       },
       { 
-        icon: '/home.png',
-        label: 'Home',
-        href: '/',
+        icon: '/students.png',
+        label: 'Students',
+        href: '/list/students',
         visibile: [
           'admin',
           'teacher',
-          'student',
-          'parent',
         ],
       },
       { 
-        icon: '/home.png',
-        label: 'Home',
-        href: '/',
+        icon: '/parent.png',
+        label: 'Parents',
+        href: '/list/parents',
         visibile: [
           'admin',
           'teacher',
-          'student',
-          'parent',
         ],
       },
       { 
-        icon: '/home.png',
-        label: 'Home',
-        href: '/',
+        icon: '/subject.png',
+        label: 'Subjects',
+        href: '/list/subjects',
         visibile: [
-          'admin',
-          'teacher',
-          'student',
-          'parent',
+          'admin'
         ],
       },
       { 
-        icon: '/home.png',
-        label: 'Home',
-        href: '/',
+        icon: '/class.png',
+        label: 'Classes',
+        href: '/list/classes',
         visibile: [
           'admin',
-          'teacher',
-          'student',
-          'parent',
+          'teacher'
         ],
       },
       { 
-        icon: '/home.png',
-        label: 'Home',
-        href: '/',
+        icon: '/lesson.png',
+        label: 'Lessons',
+        href: '/list/lessons',
         visibile: [
           'admin',
-          'teacher',
-          'student',
-          'parent',
+          'teacher'
         ],
       },
       { 
-        icon: '/home.png',
-        label: 'Home',
-        href: '/',
+        icon: '/exam.png',
+        label: 'Exams',
+        href: '/list/exams',
         visibile: [
           'admin',
           'teacher',
           'student',
-          'parent',
+          'parent'
         ],
       },
       { 
-        icon: '/home.png',
-        label: 'Home',
-        href: '/',
+        icon: '/assignment.png',
+        label: 'Assignments',
+        href: '/list/assignments',
         visibile: [
           'admin',
           'teacher',
           'student',
-          'parent',
+          'parent'
         ],
       },
       { 
-        icon: '/home.png',
-        label: 'Home',
-        href: '/',
+        icon: '/result.png',
+        label: 'Results',
+        href: '/list/results',
         visibile: [
           'admin',
           'teacher',
           'student',
-          'parent',
+          'parent'
         ],
       },
       { 
-        icon: '/home.png',
-        label: 'Home',
-        href: '/',
+        icon: '/attendamce.png',
+        label: 'Attendance',
+        href: '/list/attendance',
         visibile: [
           'admin',
           'teacher',
           'student',
-          'parent',
+          'parent'
         ],
       },
       { 
-        icon: '/home.png',
-        label: 'Home',
-        href: '/',
+        icon: '/calendar.png',
+        label: 'Calendar',
+        href: '/list/events',
         visibile: [
           'admin',
           'teacher',
           'student',
-          'parent',
+          'parent'
         ],
       },
       { 
-        icon: '/home.png',
-        label: 'Home',
-        href: '/',
+        icon: '/message.png',
+        label: 'Messages',
+        href: '/list/messages',
         visibile: [
           'admin',
           'teacher',
           'student',
-          'parent',
+          'parent'
         ],
       },
       { 
-        icon: '/home.png',
-        label: 'Home',
-        href: '/',
+        icon: '/announcement.png',
+        label: 'Announcements',
+        href: '/list/announcements',
         visibile: [
           'admin',
           'teacher',
           'student',
-          'parent',
+          'parent'
         ],
       },
     ],
