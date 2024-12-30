@@ -24,7 +24,7 @@ const menuItems = [
           'admin',
           'teacher',
           'student',
-          'parent',
+          'parent'
         ],
       },
       { 
@@ -33,7 +33,7 @@ const menuItems = [
         href: '/list/teachers',
         visibile: [
           'admin',
-          'teacher',
+          'teacher'
         ],
       },
       { 
@@ -42,7 +42,7 @@ const menuItems = [
         href: '/list/students',
         visibile: [
           'admin',
-          'teacher',
+          'teacher'
         ],
       },
       { 
@@ -51,7 +51,7 @@ const menuItems = [
         href: '/list/parents',
         visibile: [
           'admin',
-          'teacher',
+          'teacher'
         ],
       },
       { 
