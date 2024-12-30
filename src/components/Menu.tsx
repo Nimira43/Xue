@@ -170,7 +170,29 @@ const menuItems = [
           'admin',
           'teacher',
           'student',
-          'parent',
+          'parent'
+        ],
+      },
+      {
+        icon: '/setting.png',
+        label: 'Settings',
+        href: '/settings',
+        visibile: [
+          'admin',
+          'teacher',
+          'student',
+          'parent'
+        ],
+      },
+      {
+        icon: '/logout.png',
+        label: 'Logout',
+        href: '/logout',
+        visibile: [
+          'admin',
+          'teacher',
+          'student',
+          'parent'
         ],
       },
     ],
