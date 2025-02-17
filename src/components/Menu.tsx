@@ -1,6 +1,6 @@
 import { menuItems } from './menuItems'
 import Image from 'next/image'
-import Link from "next/link"
+import Link from 'next/link'
 
 const Menu = () => {
   return (
