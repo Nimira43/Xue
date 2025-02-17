@@ -5,20 +5,8 @@
 @tailwind utilities;
 
 
-:root {
-  --blue-extra-extra-light: #f3f8fa;
-  --blue-extra-light: #d8ebf2;
-  --blue-light: #c1e2ef;
-  --blue-medium-light: #87ceeb;
-  --blue-medium: #5bbadf;
-  --blue-medium-dark: #3db2e0;
-  --blue-dark: #0f94c8;
-  --blue-extra-dark: #016992;
-  --green-extra-light: #c0edc0;
-  --green-light: #afefaf;
-}
-
 .logo {
   font-family: 'Caveat', cursive;
   font-size: 2rem;
+  color: #
 }
