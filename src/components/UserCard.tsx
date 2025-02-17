@@ -7,8 +7,8 @@ const UserCard = ({type}:{type:string}) => {
         <span className='text-[10px] text-grey-dark font-medium bg-light px-2 py-1 rounded-full'>2024/25</span>
         <Image src='/more.png' alt='' width={20} height={20}/> 
       </div>
-      <h1>1,644</h1>
-      <h2>{type}</h2>
+      <h1 className='text-2xl font-semibold my-4 text-dark'>1,644</h1>
+      <h2 className='uppercase text-sm text-grey-dark'>{type}</h2>
     </div>
   )
 }
