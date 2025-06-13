@@ -4,7 +4,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
 .logo {
   font-family: 'Caveat', cursive;
   font-size: 2rem;
